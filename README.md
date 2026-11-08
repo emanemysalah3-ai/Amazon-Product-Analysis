@@ -111,11 +111,6 @@ pip install pandas matplotlib seaborn jupyter
 # 3. Launch the notebook
 jupyter notebook amazon_analysis.ipynb
 ```
-
----
-
-## 📧 Contact
-
 Feel free to reach out for feedback or collaboration [[LinkedIn](https://www.linkedin.com/in/emansalahahmed/)](#)!
 
 ⭐ If you found this project useful, please consider giving it a star!
